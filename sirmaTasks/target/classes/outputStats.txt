@@ -1,0 +1,8 @@
+Project 12 statistic
+employees - 143 and 145 have 31 days of work together in project 12
+employees - 144 and 145 have 60 days of work together in project 12
+Project 10 statistic
+employees - 144 and 145 have 116 days of work together in project 10
+employees - 145 and 211 have 346 days of work together in project 10
+employees - 145 and 213 have 711 days of work together in project 10
+employees - 211 and 213 have 3395 days of work together in project 10
